@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja'
+title = 'ken-010'
+theme = 'ananke'
