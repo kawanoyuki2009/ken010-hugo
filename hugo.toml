@@ -2,3 +2,24 @@ baseURL = 'https://example.org/'
 languageCode = 'ja'
 title = 'ken-010'
 theme = 'ananke'
+
+[[menu.main]]
+  identifier = "home"
+  name = "ホーム"
+  url = "/"
+  weight = 10
+[[menu.main]]
+  identifier = "about"
+  name = "会社概要"
+  url = "/aaa"
+  weight = 20
+[[menu.main]]
+  identifier = "post"
+  name = "日記"
+  url = "/aaa"
+  weight = 30
+[[menu.main]]
+  identifier = "contact"
+  name = "お問い合わせ"
+  url = "/aaa"
+  weight = 40
