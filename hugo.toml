@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'ja'
-title = 'ken-010'
+title = 'Hello KEN010'
 theme = 'ananke'
 
 [[menu.main]]
@@ -11,15 +11,15 @@ theme = 'ananke'
 [[menu.main]]
   identifier = "about"
   name = "会社概要"
-  url = "/aaa"
+  url = "/about"
   weight = 20
 [[menu.main]]
   identifier = "post"
   name = "日記"
-  url = "/aaa"
+  url = "/post"
   weight = 30
 [[menu.main]]
   identifier = "contact"
   name = "お問い合わせ"
-  url = "/aaa"
+  url = "/contact"
   weight = 40
