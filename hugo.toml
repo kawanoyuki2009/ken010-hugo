@@ -23,3 +23,6 @@ theme = 'ananke'
   name = "お問い合わせ"
   url = "/contact"
   weight = 40
+
+[params]
+  customCSS = ["css/custom.css"]
