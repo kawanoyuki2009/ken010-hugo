@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>圏央住宅 on Hello KEN010</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in 圏央住宅 on Hello KEN010</description>
+    <title>Posts on Hello KEN010</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Hello KEN010</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 05 Oct 2025 23:41:20 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>すてきな廃医院</title>
       <link>http://localhost:1313/post/diary2/</link>
